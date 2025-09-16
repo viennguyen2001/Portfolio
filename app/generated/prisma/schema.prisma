@@ -1,0 +1,37 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../app/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("SUPABASE_URL")
+}
+
+model Projects {
+  id          Int      @id @default(autoincrement())
+  title       String
+  slug        String   @unique
+  description String
+  image       String
+  link_demo   String?
+  link_github String?
+  stacks      String[]
+  content     String?
+  is_show     Boolean  @default(true)
+  is_featured Boolean  @default(false)
+}
+
+model achievements {
+  id                   Int      @id @default(autoincrement())
+  credential_id        String?
+  slug                 String?
+  name                 String
+  issuing_organization String
+  category             String?
+  url_credential       String
+  issue_date           String
+  expiration_date      String?
+  image                String
+  is_show              Boolean?
+}

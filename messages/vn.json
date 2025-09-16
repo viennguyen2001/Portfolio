@@ -1,0 +1,179 @@
+{
+  "HomePage": {
+    "intro": "Xin chào, tôi là Nguyễn Công Viên",
+    "location": "Thanh Trì, Hà Nội, Việt Nam",
+    "location_type": "Làm việc trực tiếp",
+    "resume": "Nhà thiết kế UI/UX giàu kinh nghiệm và đam mê, chuyên tạo ra những trải nghiệm số trực quan, lấy người dùng làm trung tâm. Về mặt giao diện, tôi thiết kế các bố cục đáp ứng và dễ tiếp cận bằng Figma, áp dụng các nguyên tắc thiết kế thị giác và hệ thống thiết kế để đảm bảo tính nhất quán và rõ ràng. Trong quy trình trải nghiệm người dùng, tôi thực hiện nghiên cứu, xây dựng wireframe và tạo prototype độ trung thực cao để cung cấp các giải pháp phù hợp với cả nhu cầu người dùng và mục tiêu kinh doanh. Tôi là một nhà thiết kế hợp tác, tỉ mỉ, cam kết tạo ra những sản phẩm hấp dẫn, đẹp mắt và chức năng trên cả nền tảng web và di động.",
+    "skills": {
+      "title": "Kỹ năng",
+      "sub_title": "Kỹ năng chuyên môn của tôi."
+    },
+    "bento": {
+      "title": "Mục nổi bật",
+      "sub_title": "Khám phá tất cả những gì tôi đã tạo, đóng góp và đạt được."
+    }
+  },
+  "AboutPage": {
+    "title": "Giới thiệu",
+    "description": "Giới thiệu ngắn gọn về tôi.",
+    "resume": {
+      "paragraf_1": "Xin chào! Cảm ơn bạn đã ghé thăm trang web cá nhân của tôi. Tôi là Viên Nguyễn Công, một Nhà thiết kế UI/UX với niềm đam mê tạo ra những trải nghiệm số lấy người dùng làm trung tâm. Tôi chuyên thiết kế giao diện trực quan và dễ tiếp cận, cân bằng giữa thẩm mỹ và chức năng. Quy trình của tôi bao gồm nghiên cứu người dùng, tạo wireframe, prototype và áp dụng các nguyên tắc thiết kế thị giác để tạo ra sản phẩm vừa hấp dẫn vừa dễ sử dụng.",
+      "paragraf_2": "Tôi thích biến những ý tưởng phức tạp thành các giải pháp rõ ràng, tinh tế nhằm nâng cao khả năng sử dụng và mang lại sự thích thú cho người dùng. Dù là thiết kế giao diện web đáp ứng hay giao diện di động thân thiện, tôi luôn hướng đến việc cung cấp các thiết kế phù hợp với cả nhu cầu người dùng và mục tiêu kinh doanh. Tôi học hỏi nhanh, làm việc tốt trong môi trường cộng tác, coi trọng phản hồi mang tính xây dựng và thích giải quyết thách thức thiết kế bằng sự sáng tạo và chính xác.",
+      "paragraf_3": "Tôi tin rằng sự thấu cảm, giao tiếp rõ ràng và tinh thần đồng đội là yếu tố cốt lõi để tạo ra sản phẩm hiệu quả. Kinh nghiệm của tôi không chỉ giúp nâng cao kỹ năng thiết kế và giải quyết vấn đề mà còn giúp tôi làm việc hiệu quả với các nhóm đa chức năng. Tôi luôn háo hức học hỏi, chia sẻ ý tưởng và đóng góp vào các dự án ý nghĩa.",
+      "paragraf_4": "Trân trọng,"
+    },
+    "career": {
+      "title": "Sự nghiệp",
+      "sub_title": "Hành trình nghề nghiệp của tôi."
+    },
+    "education": {
+      "title": "Học vấn",
+      "sub_title": "Hành trình học tập của tôi."
+    }
+  },
+  "AchievementsPage": {
+    "title": "Thành tựu",
+    "description": "Bộ sưu tập các chứng chỉ và huy hiệu tôi đã đạt được trong quá trình học tập và làm việc.",
+    "error": "Đã xảy ra lỗi từ máy chủ.",
+    "no_data": "Không có dữ liệu.",
+    "show_credential": "Xem thông tin"
+  },
+  "ProjectsPage": {
+    "title": "Dự án",
+    "description": "Bộ sưu tập các dự án cá nhân và mã nguồn mở mà tôi đã xây dựng hoặc đóng góp.",
+    "view_project": "Xem dự án",
+    "tech_stack": "Công nghệ sử dụng",
+    "back_button": "Quay lại",
+    "source_code_text": "Mã nguồn",
+    "live_demo_text": "Bản demo",
+    "error": "Đã xảy ra lỗi từ máy chủ.",
+    "no_data": "Không có dữ liệu."
+  },
+  "DashboardPage": {
+    "title": "Bảng điều khiển",
+    "description": "Bảng điều khiển cá nhân của tôi được xây dựng bằng Next.js API routes, hiển thị thống kê phát triển và đóng góp theo thời gian thực.",
+    "error": "Đã xảy ra lỗi từ máy chủ.",
+    "umami": {
+      "title": "Umami",
+      "sub_title": "Theo dõi lượt truy cập và tương tác theo thời gian thực từ trang portfolio của tôi.",
+      "overview": {
+        "page_views": "Lượt xem trang",
+        "visitors": "Khách truy cập",
+        "visits": "Lượt truy cập",
+        "countries": "Quốc gia",
+        "events": "Sự kiện"
+      },
+      "chart": {
+        "title": "Xu hướng truy cập",
+        "sessions": "Phiên",
+        "page_views": "Lượt xem trang"
+      },
+      "filter_placeholder": "Lọc tên miền..."
+    },
+    "github": {
+      "title": "Đóng góp GitHub",
+      "sub_title": "Hoạt động GitHub của tôi trong năm qua.",
+      "title_total_contribution": "Tổng",
+      "title_total_this_week_contributino": "Tuần này",
+      "title_best_contribution": "Tốt nhất",
+      "title_average_contribution": "Trung bình",
+      "title_less_contribution": "Ít hơn",
+      "title_more_contribution": "Nhiều hơn",
+      "unit": "ngày"
+    },
+    "wakatime": {
+      "title": "Thống kê WakaTime",
+      "sub_title": "Hoạt động code trong 7 ngày qua.",
+      "last_update": "Cập nhật lần cuối",
+      "start_date": "Ngày bắt đầu",
+      "end_date": "Ngày kết thúc",
+      "daily_average": "Thời gian code trung bình mỗi ngày",
+      "total_this_week": "Tổng thời gian tuần này",
+      "best_day": "Ngày tốt nhất",
+      "all_time_since_joined": "Tổng thời gian code từ khi tham gia",
+      "languages": "Ngôn ngữ hàng đầu"
+    },
+    "codewars": {
+      "title": "Tiến độ Codewars",
+      "sub_title": "Chỉ số hiệu suất từ các thử thách Codewars.",
+      "title_rank": "Xếp hạng",
+      "title_honor": "Điểm danh dự",
+      "title_completed": "Thử thách đã hoàn thành",
+      "title_leaderboard": "Bảng xếp hạng toàn cầu",
+      "title_clan": "Nhóm",
+      "title_skills": "Kỹ năng liên quan"
+    },
+    "monkeytype": {
+      "title": "Thống kê Monkeytype",
+      "sub_title": "Thống kê và hiệu suất gõ phím.",
+      "joined": "Ngày tham gia",
+      "current_streak": "Chuỗi hiện tại",
+      "unit_days": "ngày",
+      "title_test_started": "Bài kiểm tra đã bắt đầu",
+      "title_test_completed": "Bài kiểm tra đã hoàn thành",
+      "title_time_typing": "Tổng thời gian gõ",
+      "title_leaderboard": "Bảng xếp hạng tiếng Anh mọi thời đại",
+      "unit_seconds": "giây",
+      "unit_time": "thời gian",
+      "unit_words": "từ",
+      "top": "top",
+      "days_ago": "ngày trước",
+      "xp_until_next_level": "XP đến cấp tiếp theo",
+      "total_xp": "Tổng XP"
+    }
+  },
+  "ContactPage": {
+    "title": "Liên hệ",
+    "description": "Hãy kết nối với tôi",
+    "social_media": {
+      "title": "Tìm tôi trên mạng xã hội",
+      "gmail": {
+        "title": "Giữ liên lạc",
+        "description": "Liên hệ qua email để trao đổi hoặc hợp tác."
+      },
+      "instagram": {
+        "title": "Theo dõi hành trình của tôi",
+        "description": "Theo dõi hành trình sáng tạo của tôi."
+      },
+      "Facebook": {
+        "title": "Theo dõi hành trình của tôi",
+        "description": "Theo dõi hành trình sáng tạo của tôi."
+      },
+      "tiktok": {
+        "title": "Tham gia niềm vui",
+        "description": "Xem nội dung thú vị và hấp dẫn."
+      }
+    },
+    "form": {
+      "title": "Hoặc gửi tin nhắn cho tôi",
+      "input_name": "Họ và tên",
+      "input_email": "Email",
+      "input_message": "Tin nhắn",
+      "button": "Gửi Email"
+    }
+  },
+  "Footer": {
+    "hire": "Tuyển dụng tôi.",
+    "copyright_1": "BẢN QUYỀN © ",
+    "copyright_2": "VienNguyen. Đã đăng ký bản quyền."
+  },
+  "LocaleSwitcher": {
+    "en": "🇺🇸",
+    "vn": "vi",
+    "label": "Ngôn ngữ"
+  },
+  "Navigation": {
+    "Home": "Trang chủ",
+    "About": "Giới thiệu",
+    "Achievements": "Thành tựu",
+    "Projects": "Dự án",
+    "Dashboard": "Bảng điều khiển",
+    "Chat Room": "Phòng trò chuyện",
+    "Contact": "Liên hệ",
+    "Smart Talk": "Smart Talk"
+  },
+  "NotFoundPage": {
+    "title": "Không tìm thấy trang",
+    "button": "Quay lại trang chủ"
+  }
+}
