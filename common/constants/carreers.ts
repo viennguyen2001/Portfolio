@@ -20,24 +20,7 @@ export const CAREERS: CareerProps[] = [
     ],
     isShow: true,
   },
-  {
-    position: "UI/UX Designer",
-    company: "SAPP Academy",
-    logo: "/images/careers/sapp academy.png",
-    location: "Le Thanh Nghi, Hai Ba Trung, Ha Noi, Viet Nam",
-    location_type: "Onsite",
-    type: "Full time",
-    start_date: "2024-04",
-    end_date: "2024-12",
-    industry: "Học viện đào tạo (Education)",
-    link: "https://sapp.edu.vn/",
-    responsibilities: [
-      "Developed a responsive and interactive landing page using Next.js to promote company services and solutions.",
-      "Ensured SEO optimization and fast performance by leveraging Next.js features such as static site generation.",
-      "Collaborated with design and marketing teams to align web presence with brand identity.",
-    ],
-    isShow: true,
-  },
+  
   {
     position: "UI/UX Designer",
     company: "SAPP Academy",
