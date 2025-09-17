@@ -1,10 +1,10 @@
   <h1>viennguyencong.id.vn</h1>
   <p>🔥 Personal website was built originally from scratch using Next.js, TypeScript, Tailwind CSS, SWR, Supabase and more.</p> 
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/satriabahari/satria.com)](https://github.com/viennguyen2001/Portfolio/stargazers)
+[![GitHub Repo stars](https://img.shields.io/github/stars/viennguyencong/satria.com)](https://github.com/viennguyen2001/Portfolio/stargazers)
 [![Depfu](https://badges.depfu.com/badges/02483ebb21fdb2182a66a28b68d1b7b0/status.svg)](https://depfu.com)
-[![Depfu](https://badges.depfu.com/badges/02483ebb21fdb2182a66a28b68d1b7b0/overview.svg)](https://depfu.com/github/satriabahari/satria.com?project_id=38809)
-[![Depfu](https://badges.depfu.com/badges/02483ebb21fdb2182a66a28b68d1b7b0/count.svg)](https://depfu.com/github/satriabahari/satria.com?project_id=38809)
+[![Depfu](https://badges.depfu.com/badges/02483ebb21fdb2182a66a28b68d1b7b0/overview.svg)](https://depfu.com/github/viennguyencong/satria.com?project_id=38809)
+[![Depfu](https://badges.depfu.com/badges/02483ebb21fdb2182a66a28b68d1b7b0/count.svg)](https://depfu.com/github/viennguyencong/satria.com?project_id=38809)
 [![Last Update](https://img.shields.io/badge/deps%20update-every%20sunday-blue.svg)](https://shields.io/)
 
 <br/>
