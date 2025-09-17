@@ -17,8 +17,7 @@ const Projects = () => {
   const { data, isLoading, error } = useSWR("/api/projects", fetcher);
 
   const t = useTranslations("ProjectsPage");
-  console.log('data: ', data);
-  
+  console.log('data: ', data);  
 
   const filteredProjects: ProjectItem[] = data
     ?.filter((item: ProjectItem) => item?.is_show)
