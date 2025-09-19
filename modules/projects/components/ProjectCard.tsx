@@ -36,7 +36,7 @@ const ProjectCard = ({
             alt={title}
             width={450}
             height={200}
-            className="h-[200px] w-full rounded-t-xl object-cover"
+            className="h-[200px] w-full rounded-t-xl object-top"
           />
           <div className="absolute left-0 top-0 flex h-full w-full items-center justify-center gap-1 rounded-t-xl bg-black text-sm font-medium text-neutral-50 opacity-0 transition-opacity duration-300 group-hover:opacity-80">
             <span>{t("view_project")}</span>
