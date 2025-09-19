@@ -21,7 +21,6 @@ const Table = (props: TableProps & React.HTMLProps<HTMLTableElement>) => (
 );
 
 const MDXComponent = ({ children }: MarkdownRendererProps) => {
-  console.log("ProjectDetail content:", content);
   return (
     <ReactMarkdown
       remarkPlugins={[remarkGfm]}
@@ -37,7 +36,7 @@ const MDXComponent = ({ children }: MarkdownRendererProps) => {
           <p className="font-sans" {...props}>
            {children}
             </p>
-          ),
+        ),
 
         h2: (props) => (
           <h2
