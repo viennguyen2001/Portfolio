@@ -31,13 +31,23 @@ const ProjectCard = ({
           </div>
         )}
         <div className="relative">
-          <Image
+          {/* <Image
             src={image}
             alt={title}
             width={450}
             height={200}
             className="h-[200px] w-full rounded-t-xl object-top"
-          />
+          /> */}
+          <div className="w-full h-[200px] overflow-hidden rounded-t-xl">
+            <Image
+              src={image}
+              alt={title}
+              width={450}
+              height={0} // auto scale theo width
+              className="w-full object-top"
+            />
+          </div>
+
           <div className="absolute left-0 top-0 flex h-full w-full items-center justify-center gap-1 rounded-t-xl bg-black text-sm font-medium text-neutral-50 opacity-0 transition-opacity duration-300 group-hover:opacity-80">
             <span>{t("view_project")}</span>
             <ViewIcon size={20} />
