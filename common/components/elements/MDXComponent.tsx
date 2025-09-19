@@ -32,12 +32,7 @@ const MDXComponent = ({ children }: MarkdownRendererProps) => {
             {...props}
           />
         ),
-        p: ({ children, ...props }) => (
-          <p className="font-sans" {...props}>
-           {children}
-            </p>
-        ),
-
+        p: (props) => <div {...props} className="font-sans" />,
         h2: (props) => (
           <h2
             className="font-sans text-xl font-medium dark:text-neutral-300"
