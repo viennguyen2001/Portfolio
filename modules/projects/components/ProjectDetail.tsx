@@ -56,11 +56,16 @@ const ProjectDetail = ({
         />
       </div>
 
-      {content ? (
+      {/* {content ? (
         <div className="mt-5 space-y-6 leading-[1.8] dark:text-neutral-300">
           <MDXComponent>{content}</MDXComponent>
         </div>
-      ) : null}
+      ) : null} */}
+      {content && (
+        <p className="mt-5 space-y-6 leading-[1.8] dark:text-neutral-300">
+          {content}
+        </p>
+      )}
     </div>
   );
 };
