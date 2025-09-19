@@ -57,9 +57,12 @@ const ProjectDetail = ({
       </div>
 
       {content ? (
+        <>
+         {console.log("ProjectDetail content:", content)}
         <div className="mt-5 space-y-6 leading-[1.8] dark:text-neutral-300">
           <MDXComponent>{content}</MDXComponent>
         </div>
+        </>
       ) : null}
     </div>
   );

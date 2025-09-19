@@ -21,6 +21,7 @@ const Table = (props: TableProps & React.HTMLProps<HTMLTableElement>) => (
 );
 
 const MDXComponent = ({ children }: MarkdownRendererProps) => {
+  console.log("ProjectDetail content:", content);
   return (
     <ReactMarkdown
       remarkPlugins={[remarkGfm]}
